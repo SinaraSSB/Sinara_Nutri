@@ -195,3 +195,30 @@ Repita com o outro braço.
 > 
 > 
 --- 
+
+## 🏊‍♀️ Alongamento Pré-Natação (5 minutos)
+
+### 1. Rotação de Ombros (30 segundos)
+* Gire os ombros para trás em movimentos amplos e lentos.
+* Depois, gire para frente.
+* Ajuda a ativar a musculatura do manguito rotador.
+
+## 2. Alongamento de Pescoço (1 minuto)
+* Incline a cabeça para o lado, aproximando a orelha do ombro.
+* Mantenha por 15 segundos de cada lado.
+* Depois, olhe para baixo (queixo no peito) e segure por 15 segundos.
+* Finalize olhando para cima (pescoço estendido) por mais 15 segundos.
+
+## 3. Braço Cruzado na Frente do Peito (30 segundos cada lado)
+* Puxe o braço estendido com a outra mão, mantendo-o na altura do peito.
+* Alongamento ótimo para o deltoide e trapézio.
+
+## 4. Torção de Tronco (1 minuto)
+* Em pé, com os pés afastados na largura dos ombros, gire o tronco para um lado, mantendo os quadris fixos.
+* Segure por 15 segundos e troque de lado.
+* Repita duas vezes.
+
+## 5. Alongamento de Quadril e Posterior da Coxa (1 minuto)
+* Em pé, cruze uma perna sobre a outra e incline o tronco para frente.
+* Mantenha por 30 segundos e troque as pernas.
+* Ajuda a liberar tensão na lombar e preparar os membros inferiores.
