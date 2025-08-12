@@ -217,6 +217,8 @@ Repita com o outro braço.
 * Em pé, com os pés afastados na largura dos ombros, gire o tronco para um lado, mantendo os quadris fixos.
 * Segure por 15 segundos e troque de lado.
 * Repita duas vezes.
+![Torção Tronco](./IMG/image_tronco.png)
+
 
 ## 5. Alongamento de Quadril e Posterior da Coxa (1 minuto)
 * Em pé, cruze uma perna sobre a outra e incline o tronco para frente.
