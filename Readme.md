@@ -2,7 +2,7 @@
 
 Investir no cuidado da região lombar e cervical traz benefícios a longo prazo. A prática regular de movimentos específicos pode aumentar a flexibilidade e a força muscular, reduzindo o risco de lesões. Abaixo, confira uma lista de atividades que ajudam a promover a saúde dessa área.
 
-1. Alongamento de Gato e Vaca
+### 1. Alongamento de Gato e Vaca
 
 Comece em quatro apoios, com as mãos alinhadas aos ombros e os joelhos no chão. Inspire, arqueando as costas para baixo e levantando a cabeça. Expire, curvando as costas para cima e levando o queixo ao peito. 
 Repita o movimento por 10 a 15 vezes.
@@ -12,45 +12,55 @@ Repita o movimento por 10 a 15 vezes.
 
 ---
 
-2. Prancha
+### 2. Prancha
 
 Posicione-se em decúbito ventral, apoiando os cotovelos e os pés no chão. Mantenha o tronco alinhado e o abdômen contraído. Segure a posição por 30 segundos, aumentando o tempo conforme a evolução.
 
 ![alt text](./IMG/image-2.png)
 
+---
 
-3. Dead Bug
+### 3. Dead Bug
 
 Deite-se de costas com os braços estendidos para cima e as pernas elevadas, formando um ângulo de 90 graus. Estenda uma perna e o braço oposto, alternando os lados. Faça 10 repetições por série.
 
 ![alt text](./IMG/image-4.png)
 
+---
 
-4. Elevação Pélvica
+### 4. Elevação Pélvica
 
 Deite-se de costas com os joelhos flexionados. Eleve o quadril, mantendo os pés no chão. Desça lentamente e repita o movimento por 15 vezes. Essa atividade ajuda a fortalecer a região lombar.
 
 ![alt text](./IMG/image-5.png)
 
-5. Alongamento Cobra
+---
+
+### 5. Alongamento Cobra
 
 Deite-se de bruços com as mãos apoiadas no chão, alinhadas aos ombros. Eleve o tronco, mantendo os quadris no chão. Segure a posição por 15 segundos e repita 3 vezes.
 
 ![alt text](./IMG/image-6.png)
 
-6. Equilíbrio em Quatro Apoios
+---
+
+### 6. Equilíbrio em Quatro Apoios
 
 Em quatro apoios, estenda um braço e a perna oposta, mantendo o equilíbrio. Segure por 10 segundos e alterne os lados. Essa atividade promove o fortalecimento do core e da região lombar.
 
 ![alt text](./IMG/image-7.png)
 
-8. Alongamento dos Isquiotibiais
+---
+
+### 8. Alongamento dos Isquiotibiais
 
 Sente-se no chão com as pernas estendidas. Incline o tronco para frente, tentando alcançar os pés. Mantenha a posição por 20 segundos e repita 3 vezes.
 
 ![alt text](./IMG/image-8.png)
 
-9. Rotação do Pescoço
+--- 
+
+# 9. Rotação do Pescoço
 
 Sente-se com a coluna ereta. Gire a cabeça lentamente para um lado, mantendo a posição por 5 segundos. Repita 5 vezes de cada lado, duas vezes ao dia.
 
@@ -58,6 +68,8 @@ Sente-se com a coluna ereta. Gire a cabeça lentamente para um lado, mantendo a 
 
 
 --- 
+
+### Cervical -  alongamentos rápidos 
 
 ![alt text](./IMG/image-10.png)
 
@@ -217,7 +229,7 @@ Repita com o outro braço.
 * Em pé, com os pés afastados na largura dos ombros, gire o tronco para um lado, mantendo os quadris fixos.
 * Segure por 15 segundos e troque de lado.
 * Repita duas vezes.
-![Torção Tronco](./IMG/image_tronco.png)
+
 
 
 ## 5. Alongamento de Quadril e Posterior da Coxa (1 minuto)
@@ -228,6 +240,7 @@ Repita com o outro braço.
 --- 
 
 ## Joelhos
+---
 ![joelho](./IMG_joelho/1_joelho_extensao.PNG)
 ![joelho2](./IMG_joelho/2_joelho_flexaoPerna.PNG)
 ![joelho3](./IMG_joelho/3_joelho_elavaPanturilha.PNG)
@@ -235,4 +248,5 @@ Repita com o outro braço.
 ![joelho5](./IMG_joelho/5_joelho_flexao_extensao.PNG)
 ![joelho6](./IMG_joelho/6_joelho_AbducaoQuadril.PNG)
 ![joelho7](./IMG_joelho/7_joelho_ostra.PNG)
+---
 ![algonamentos](./IMG_joelho/alongamentos-basicos.PNG)
