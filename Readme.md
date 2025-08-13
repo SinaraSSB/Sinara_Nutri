@@ -224,3 +224,15 @@ Repita com o outro braço.
 * Em pé, cruze uma perna sobre a outra e incline o tronco para frente.
 * Mantenha por 30 segundos e troque as pernas.
 * Ajuda a liberar tensão na lombar e preparar os membros inferiores.
+
+--- 
+
+## Joelhos
+![joelho](./IMG_joelho/1_joelho_extensao.PNG)
+![joelho2](./IMG_joelho/2_joelho_flexaoPerna.PNG)
+![joelho3](./IMG_joelho/3_joelho_elavaPanturilha.PNG)
+![joelho4](./IMG_joelho/4_joelho_agachamentoCadeira.PNG)
+![joelho5](./IMG_joelho/5_joelho_flexao_extensao.PNG)
+![joelho6](./IMG_joelho/6_joelho_AbducaoQuadril.PNG)
+![joelho7](./IMG_joelho/7_joelho_ostra.PNG)
+![algonamentos](./IMG_joelho/alongamentos-basicos.PNG)
