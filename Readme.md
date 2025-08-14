@@ -241,12 +241,55 @@ Repita com o outro braço.
 
 ## Joelhos
 ---
-![joelho](./IMG_joelho/1_joelho_extensao.PNG)
-![joelho2](./IMG_joelho/2_joelho_flexaoPerna.PNG)
-![joelho3](./IMG_joelho/3_joelho_elavaPanturilha.PNG)
-![joelho4](./IMG_joelho/4_joelho_agachamentoCadeira.PNG)
-![joelho5](./IMG_joelho/5_joelho_flexao_extensao.PNG)
-![joelho6](./IMG_joelho/6_joelho_AbducaoQuadril.PNG)
-![joelho7](./IMG_joelho/7_joelho_ostra.PNG)
+* ![joelho](./IMG_joelho/1_joelho_extensao.PNG)
+* ![joelho2](./IMG_joelho/2_joelho_flexaoPerna.PNG)
+* ![joelho3](./IMG_joelho/3_joelho_elavaPanturilha.PNG)
+* ![joelho4](./IMG_joelho/4_joelho_agachamentoCadeira.PNG)
+* ![joelho5](./IMG_joelho/5_joelho_flexao_extensao.PNG)
+* ![joelho6](./IMG_joelho/6_joelho_AbducaoQuadril.PNG)
+* ![joelho7](./IMG_joelho/7_joelho_ostra.PNG)
+* ![Elevacao](./IMG_joelho/8.Elevacao_perna_esticada.PNG)
+* ![bike](./IMG_joelho/10.bicicleta_15min.PNG)
+
 ---
+
 ![algonamentos](./IMG_joelho/alongamentos-basicos.PNG)
+
+--- 
+
+## Antes de Deitar -  Cervical 
+
+---
+
+## 🌙 Rotina Noturna para Alívio Cervical e Neuralgia Occipital (5 a 7 minutos)
+
+### 🧘‍♀️ 1. Respiração profunda (1 minuto)
+Sente-se ou deite-se confortavelmente.
+Inspire pelo nariz por 4 segundos, segure por 2 segundos, expire pela boca por 6 segundos.
+Repita 5 vezes para relaxar o sistema nervoso.
+
+### 🧍‍♀️ 2. Alongamento cervical lateral (1 minuto)
+Sentada, mantenha a coluna ereta.
+Incline a cabeça suavemente para o lado direito (orelha em direção ao ombro).
+Mantenha por 20 segundos, volte ao centro.
+Repita para o lado esquerdo.
+
+### 🔁 3. Rotação cervical lenta (1 minuto)
+Gire a cabeça lentamente para a direita, como se olhasse por cima do ombro.
+Mantenha por 10 segundos.
+Volte ao centro e repita para o lado esquerdo.
+Faça 3 vezes para cada lado.
+
+### 🤲 4. Auto-massagem na nuca (1 minuto)
+Com os dedos, massageie suavemente a base do crânio e a parte superior do pescoço.
+Faça movimentos circulares por 30 segundos em cada lado.
+Use um óleo relaxante se desejar (lavanda ou arnica).
+
+### 🧍‍♀️ 5. Alongamento de trapézio e ombros (1 minuto)
+Cruze o braço direito sobre o peito e segure com o braço esquerdo.
+Mantenha por 20 segundos.
+Repita com o outro braço.
+Finalize com elevação e rotação dos ombros para trás (5 vezes).
+
+### 🌡️ Dica extra
+Após os exercícios, aplique uma compressa morna na nuca por 10 a 15 minutos para relaxar ainda mais os músculos.
