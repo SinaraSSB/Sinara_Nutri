@@ -1,3 +1,37 @@
+
+## 🏊‍♀️ Alongamento Pré-Natação (5 minutos)
+
+### 1. Rotação de Ombros (30 segundos)
+* Gire os ombros para trás em movimentos amplos e lentos.
+* Depois, gire para frente.
+* Ajuda a ativar a musculatura do manguito rotador.
+
+## 2. Alongamento de Pescoço (1 minuto)
+* Incline a cabeça para o lado, aproximando a orelha do ombro.
+* Mantenha por 15 segundos de cada lado.
+* Depois, olhe para baixo (queixo no peito) e segure por 15 segundos.
+* Finalize olhando para cima (pescoço estendido) por mais 15 segundos.
+
+## 3. Braço Cruzado na Frente do Peito (30 segundos cada lado)
+* Puxe o braço estendido com a outra mão, mantendo-o na altura do peito.
+* Alongamento ótimo para o deltoide e trapézio.
+
+## 4. Torção de Tronco (1 minuto)
+* Em pé, com os pés afastados na largura dos ombros, gire o tronco para um lado, mantendo os quadris fixos.
+* Segure por 15 segundos e troque de lado.
+* Repita duas vezes.
+
+
+
+## 5. Alongamento de Quadril e Posterior da Coxa (1 minuto)
+* Em pé, cruze uma perna sobre a outra e incline o tronco para frente.
+* Mantenha por 30 segundos e troque as pernas.
+* Ajuda a liberar tensão na lombar e preparar os membros inferiores.
+
+----
+
+--- 
+
 ## exercícios para fortalecer a coluna lombar e cervical
 
 Investir no cuidado da região lombar e cervical traz benefícios a longo prazo. A prática regular de movimentos específicos pode aumentar a flexibilidade e a força muscular, reduzindo o risco de lesões. Abaixo, confira uma lista de atividades que ajudam a promover a saúde dessa área.
@@ -69,6 +103,24 @@ Sente-se com a coluna ereta. Gire a cabeça lentamente para um lado, mantendo a 
 
 --- 
 
+
+--- 
+
+## Joelhos
+---
+* ![joelho](./IMG_joelho/1_joelho_extensao.PNG)
+* ![joelho2](./IMG_joelho/2_joelho_flexaoPerna.PNG)
+* ![joelho3](./IMG_joelho/3_joelho_elavaPanturilha.PNG)
+* ![joelho4](./IMG_joelho/4_joelho_agachamentoCadeira.PNG)
+* ![joelho5](./IMG_joelho/5_joelho_flexao_extensao.PNG)
+* ![joelho6](./IMG_joelho/6_joelho_AbducaoQuadril.PNG)
+* ![joelho7](./IMG_joelho/7_joelho_ostra.PNG)
+* ![Elevacao](./IMG_joelho/8.Elevacao_perna_esticada.PNG)
+* ![bike](./IMG_joelho/10.bicicleta_15min.PNG)
+
+---
+
+![algonamentos](./IMG_joelho/alongamentos-basicos.PNG)
 ### Cervical -  alongamentos rápidos 
 
 ![alt text](./IMG/image-10.png)
@@ -208,52 +260,7 @@ Repita com o outro braço.
 > 
 --- 
 
-## 🏊‍♀️ Alongamento Pré-Natação (5 minutos)
 
-### 1. Rotação de Ombros (30 segundos)
-* Gire os ombros para trás em movimentos amplos e lentos.
-* Depois, gire para frente.
-* Ajuda a ativar a musculatura do manguito rotador.
-
-## 2. Alongamento de Pescoço (1 minuto)
-* Incline a cabeça para o lado, aproximando a orelha do ombro.
-* Mantenha por 15 segundos de cada lado.
-* Depois, olhe para baixo (queixo no peito) e segure por 15 segundos.
-* Finalize olhando para cima (pescoço estendido) por mais 15 segundos.
-
-## 3. Braço Cruzado na Frente do Peito (30 segundos cada lado)
-* Puxe o braço estendido com a outra mão, mantendo-o na altura do peito.
-* Alongamento ótimo para o deltoide e trapézio.
-
-## 4. Torção de Tronco (1 minuto)
-* Em pé, com os pés afastados na largura dos ombros, gire o tronco para um lado, mantendo os quadris fixos.
-* Segure por 15 segundos e troque de lado.
-* Repita duas vezes.
-
-
-
-## 5. Alongamento de Quadril e Posterior da Coxa (1 minuto)
-* Em pé, cruze uma perna sobre a outra e incline o tronco para frente.
-* Mantenha por 30 segundos e troque as pernas.
-* Ajuda a liberar tensão na lombar e preparar os membros inferiores.
-
---- 
-
-## Joelhos
----
-* ![joelho](./IMG_joelho/1_joelho_extensao.PNG)
-* ![joelho2](./IMG_joelho/2_joelho_flexaoPerna.PNG)
-* ![joelho3](./IMG_joelho/3_joelho_elavaPanturilha.PNG)
-* ![joelho4](./IMG_joelho/4_joelho_agachamentoCadeira.PNG)
-* ![joelho5](./IMG_joelho/5_joelho_flexao_extensao.PNG)
-* ![joelho6](./IMG_joelho/6_joelho_AbducaoQuadril.PNG)
-* ![joelho7](./IMG_joelho/7_joelho_ostra.PNG)
-* ![Elevacao](./IMG_joelho/8.Elevacao_perna_esticada.PNG)
-* ![bike](./IMG_joelho/10.bicicleta_15min.PNG)
-
----
-
-![algonamentos](./IMG_joelho/alongamentos-basicos.PNG)
 
 --- 
 
