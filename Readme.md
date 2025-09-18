@@ -77,6 +77,11 @@ Sente-se no chão com as pernas estendidas. Incline o tronco para frente, tentan
 
 --- 
 
+* ![joelho7](./IMG_joelho/7_joelho_ostra.PNG)
+* ![Elevacao](./IMG_joelho/8.Elevacao_perna_esticada.PNG)
+* ![bike](./IMG_joelho/10.bicicleta_15min.PNG)
+
+
 # 9. Rotação do Pescoço
 
 Sente-se com a coluna ereta. Gire a cabeça lentamente para um lado, mantendo a posição por 5 segundos. Repita 5 vezes de cada lado, duas vezes ao dia.
@@ -97,9 +102,6 @@ Sente-se com a coluna ereta. Gire a cabeça lentamente para um lado, mantendo a 
 * ![joelho4](./IMG_joelho/4_joelho_agachamentoCadeira.PNG)
 * ![joelho5](./IMG_joelho/5_joelho_flexao_extensao.PNG)
 * ![joelho6](./IMG_joelho/6_joelho_AbducaoQuadril.PNG)
-* ![joelho7](./IMG_joelho/7_joelho_ostra.PNG)
-* ![Elevacao](./IMG_joelho/8.Elevacao_perna_esticada.PNG)
-* ![bike](./IMG_joelho/10.bicicleta_15min.PNG)
 
 ---
 
