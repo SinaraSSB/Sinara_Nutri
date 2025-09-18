@@ -95,3 +95,4 @@ Finalize com elevação e rotação dos ombros para trás (5 vezes).
 
 ### 🌡️ Dica extra
 Após os exercícios, aplique uma compressa morna na nuca por 10 a 15 minutos para relaxar ainda mais os músculos.
+

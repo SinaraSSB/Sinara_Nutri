@@ -45,16 +45,7 @@ Repita o movimento por 10 a 15 vezes.
 
 
 ---
-
-### 2. Prancha
-
-Posicione-se em decúbito ventral, apoiando os cotovelos e os pés no chão. Mantenha o tronco alinhado e o abdômen contraído. Segure a posição por 30 segundos, aumentando o tempo conforme a evolução.
-
-![alt text](./IMG/image-2.png)
-
----
-
-### 3. Dead Bug
+### 2. Dead Bug
 
 Deite-se de costas com os braços estendidos para cima e as pernas elevadas, formando um ângulo de 90 graus. Estenda uma perna e o braço oposto, alternando os lados. Faça 10 repetições por série.
 
@@ -62,7 +53,7 @@ Deite-se de costas com os braços estendidos para cima e as pernas elevadas, for
 
 ---
 
-### 4. Elevação Pélvica
+### 3. Elevação Pélvica
 
 Deite-se de costas com os joelhos flexionados. Eleve o quadril, mantendo os pés no chão. Desça lentamente e repita o movimento por 15 vezes. Essa atividade ajuda a fortalecer a região lombar.
 
@@ -70,15 +61,7 @@ Deite-se de costas com os joelhos flexionados. Eleve o quadril, mantendo os pés
 
 ---
 
-### 5. Alongamento Cobra
-
-Deite-se de bruços com as mãos apoiadas no chão, alinhadas aos ombros. Eleve o tronco, mantendo os quadris no chão. Segure a posição por 15 segundos e repita 3 vezes.
-
-![alt text](./IMG/image-6.png)
-
----
-
-### 6. Equilíbrio em Quatro Apoios
+### 5. Equilíbrio em Quatro Apoios
 
 Em quatro apoios, estenda um braço e a perna oposta, mantendo o equilíbrio. Segure por 10 segundos e alterne os lados. Essa atividade promove o fortalecimento do core e da região lombar.
 
@@ -86,7 +69,7 @@ Em quatro apoios, estenda um braço e a perna oposta, mantendo o equilíbrio. Se
 
 ---
 
-### 8. Alongamento dos Isquiotibiais
+### 6. Alongamento dos Isquiotibiais
 
 Sente-se no chão com as pernas estendidas. Incline o tronco para frente, tentando alcançar os pés. Mantenha a posição por 20 segundos e repita 3 vezes.
 
@@ -105,7 +88,7 @@ Sente-se com a coluna ereta. Gire a cabeça lentamente para um lado, mantendo a 
 
 
 --- 
-
+--- 
 ## Joelhos
 ---
 * ![joelho](./IMG_joelho/1_joelho_extensao.PNG)
