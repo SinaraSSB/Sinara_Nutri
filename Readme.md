@@ -102,6 +102,7 @@ Sente-se com a coluna ereta. Gire a cabeça lentamente para um lado, mantendo a 
 * ![joelho4](./IMG_joelho/4_joelho_agachamentoCadeira.PNG)
 * ![joelho5](./IMG_joelho/5_joelho_flexao_extensao.PNG)
 * ![joelho6](./IMG_joelho/6_joelho_AbducaoQuadril.PNG)
+* ![bike](./IMG_joelho/10.bicicleta_15min.PNG)
 
 ---
 
