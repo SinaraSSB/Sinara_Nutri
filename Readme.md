@@ -69,6 +69,10 @@ Em quatro apoios, estenda um braço e a perna oposta, mantendo o equilíbrio. Se
 
 ---
 
+### 6.  Prancha 
+
+![alt text}(./IMG/prancha.png)
+
 ### 6. Alongamento dos Isquiotibiais
 
 Sente-se no chão com as pernas estendidas. Incline o tronco para frente, tentando alcançar os pés. Mantenha a posição por 20 segundos e repita 3 vezes.
