@@ -71,7 +71,7 @@ Em quatro apoios, estenda um braço e a perna oposta, mantendo o equilíbrio. Se
 
 ### 6.  Prancha 
 
-![alt text}(./IMG/prancha.png)
+![alt text](./IMG/prancha.png)
 
 ### 6. Alongamento dos Isquiotibiais
 
